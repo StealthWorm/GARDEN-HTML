@@ -43,8 +43,8 @@ img {
 .plant {
   cursor: move;
   position: absolute;
-  max-width: 150%;
-  max-height: 150%;
+  /* max-width: 180%;
+  max-height: 180%; */
   z-index: 2;
 }
 
